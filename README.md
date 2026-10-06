@@ -1,6 +1,6 @@
 # MedNoise: MRI Denoising with DnCNN
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Stefan281/mednoise-mri-denoising/blob/main/notebooks/mednoise.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefanoluic/mednoise-mri-denoising/blob/main/notebooks/mednoise.ipynb)
 
 MedNoise is an image-denoising experiment that trains a residual DnCNN model to remove synthetic Rician noise from grayscale brain MRI images. The trained model is evaluated with PSNR and SSIM and compared with Gaussian and median filtering.
 
