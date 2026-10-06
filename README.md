@@ -59,7 +59,7 @@ The trained checkpoint and source dataset are intentionally excluded from the re
 
 ### Google Colab
 
-1. Upload [`notebooks/mednoise.ipynb`](notebooks/mednoise.ipynb) to Google Colab.
+1. Click the **Open in Colab** badge at the top of this README.
 2. Select a GPU runtime.
 3. Run all cells in order.
 
